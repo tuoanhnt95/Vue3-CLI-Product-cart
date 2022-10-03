@@ -1,3 +1,5 @@
+This app is my result from this Vue.js video course: https://www.youtube.com/watch?v=FXpIoQ_rT_c&ab_channel=Fireship
+
 # vue3-cli-product-cart
 
 ## Project setup
